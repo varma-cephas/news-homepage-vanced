@@ -96,6 +96,23 @@ aside h2{
     font-size: 2rem;
 }
 
+.read-more{
+    border: 2px solid hsl(5, 85%, 63%);
+    background: hsl(5, 85%, 63%);
+    width: fit-content;
+    padding: 0.7rem 3rem 0.7rem 3rem;
+    /* margin-top: 0.9rem; */
+    text-align: center;
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: 0.2rem;
+}
+
+.read-more a{
+    text-decoration: none;
+    color: white;
+}
+
 .aside-line{
     border: 1px solid hsl(36, 2%, 49%);
     margin:  2rem 0 2rem 0;
